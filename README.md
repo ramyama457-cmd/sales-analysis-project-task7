@@ -28,7 +28,7 @@ This project demonstrates:
 
 1. Clone this repository:
 
-       (https://github.com/BasavarjYN/sales-analysis-project-task7.git)
+       (https://github.com/ramyama457-cmd/sales-analysis-project-task7.git)
 
 2.Run the database setup:
 
